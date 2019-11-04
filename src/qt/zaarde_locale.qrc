@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/zaarde_bg.qm</file>
+        <file alias="ca">locale/zaarde_ca.qm</file>
+        <file alias="cs">locale/zaarde_cs.qm</file>
+        <file alias="da">locale/zaarde_da.qm</file>
+        <file alias="de">locale/zaarde_de.qm</file>
+        <file alias="en">locale/zaarde_en.qm</file>
+        <file alias="en_US">locale/zaarde_en_US.qm</file>
+        <file alias="es">locale/zaarde_es.qm</file>
+        <file alias="fi">locale/zaarde_fi.qm</file>
+        <file alias="fr_FR">locale/zaarde_fr_FR.qm</file>
+        <file alias="hr">locale/zaarde_hr.qm</file>
+        <file alias="it">locale/zaarde_it.qm</file>
+        <file alias="ja">locale/zaarde_ja.qm</file>
+        <file alias="ko_KR">locale/zaarde_ko_KR.qm</file>
+        <file alias="nl">locale/zaarde_nl.qm</file>
+        <file alias="pl">locale/zaarde_pl.qm</file>
+        <file alias="pt">locale/zaarde_pt.qm</file>
+        <file alias="pt_BR">locale/zaarde_pt_BR.qm</file>
+        <file alias="ro_RO">locale/zaarde_ro_RO.qm</file>
+        <file alias="ru">locale/zaarde_ru.qm</file>
+        <file alias="sk">locale/zaarde_sk.qm</file>
+        <file alias="sv">locale/zaarde_sv.qm</file>
+        <file alias="tr">locale/zaarde_tr.qm</file>
+        <file alias="uk">locale/zaarde_uk.qm</file>
+        <file alias="zh_CN">locale/zaarde_zh_CN.qm</file>
+        <file alias="zh_TW">locale/zaarde_zh_TW.qm</file>
+    </qresource>
+</RCC>
