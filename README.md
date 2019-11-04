@@ -1,0 +1,2 @@
+# ZaardeCore
+Zaarde Coin
